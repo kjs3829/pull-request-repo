@@ -8,3 +8,4 @@ six
 팔
 구
 workworkwork
+finish
